@@ -1,4 +1,4 @@
 # ishan-demo
 First Git Repository.
 <br>
-Author- Ishan Pandey
+Author- Ishan Pandey(IT)
